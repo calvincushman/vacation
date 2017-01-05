@@ -4,3 +4,13 @@
 body{
   background-color: #ccffff;
 }
+.col-lg-6 img{
+  border: #66ccff 5px;
+  border-style: outset;
+  margin: 10px;
+  width: 350px;
+  height: auto;
+}
+h2{
+  text-shadow: 1.5px 1.5px #66ccff;
+}
